@@ -18,3 +18,4 @@ The list of domains that I own.
 ##### [api.daneeskripter.xyz](https://api.daneeskripter.xyz) - Just test API
 ### [catiebot.xyz](https://catiebot.xyz) - My Bot Website
 ### [easystart.js.org](https://easystart.js.org) - EasyStart
+### [clickimg.xyz](https://clickimg.xyz) - ClickImg (ShareX Uploader)
