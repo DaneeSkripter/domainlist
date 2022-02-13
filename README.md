@@ -19,3 +19,8 @@ The list of domains that I own.
 ### [catiebot.xyz](https://catiebot.xyz) - My Bot Website
 ### [easystart.js.org](https://easystart.js.org) - EasyStart
 ### [clickimg.xyz](https://clickimg.xyz) - ClickImg (ShareX Uploader)
+### [dishost.xyz](https://dishost.xyz) - DisHost (Hosting Service)
+#### Subdomains
+##### [panel.dishost.xyz](https://panel.dishost.xyz) - DisHost Panel
+##### [client.dishost.xyz](https://client.dishost.xyz) - DisHost Dashboard
+##### [de1.dishost.xyz](https://de1.dishost.xyz) - De1 Node
