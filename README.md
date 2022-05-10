@@ -24,3 +24,4 @@ The list of domains that I own.
 ##### [panel.dishost.xyz](https://panel.dishost.xyz) - DisHost Panel
 ##### [client.dishost.xyz](https://client.dishost.xyz) - DisHost Dashboard
 ##### [de1.dishost.xyz](https://de1.dishost.xyz) - De1 Node
+##### [fr1.dishost.xyz](https://fr1.dishost.xyz) - Fr1 Node
