@@ -1,27 +1,18 @@
 # DomainList
 The list of domains that I own.
 ## Domains
-### [e-click.tk](https://e-click.tk) - URL Shorter
-### [forza-api.tk](https://forza-api.tk) - ForzaAPI
+### [forzaapi.tk](https://forzaapi.tk) - ForzaAPI
+### [daneeskripter.tk](https://daneeskripter.tk) - My Web 
+### [smileit.tk](https://smileit.tk) - SmileIt
+### [dishost.xyz](https://dishost.xyz) - DisHost (Hosting Service)
+### dnskr.tk - Private URL Shorter
 #### Subdomains
 ##### [docs.forza-api.tk](https://docs.forza-api.tk) - ForzaAPI Docs
-### [daneeskripter.tk](https://daneeskripter.tk) - My Web (Old)
-### [smileit.tk](https://smileit.tk) - SmileIt
-### [catiebot.tk](https://catiebot.tk) - My Bot Website (Old)
-### [daneehost.tk](https://daneehost.tk) - Hosting project (Ended / Archived)
-### [daneeskripter.xyz](https://daneeskripter.xyz) - My Web
-#### Subdomains
-##### [docs.daneeskripter.xyz](https://docs.daneeskripter.xyz) - My Docs
-##### [link.daneeskripter.xyz](https://link.daneeskripter.xyz) - URL Shorter
-##### [status.daneeskripter.xyz](https://status.daneeskripter.xyz) - Status of my websites
-##### [fun.daneeskripter.xyz](https://fun.daneeskripter.xyz) - Some websites that I created when I was bored
-##### [api.daneeskripter.xyz](https://api.daneeskripter.xyz) - Just test API
-### [catiebot.xyz](https://catiebot.xyz) - My Bot Website
-### [easystart.js.org](https://easystart.js.org) - EasyStart
-### [clickimg.xyz](https://clickimg.xyz) - ClickImg (ShareX Uploader)
-### [dishost.xyz](https://dishost.xyz) - DisHost (Hosting Service)
-#### Subdomains
+##### [docs.daneeskripter.tk](https://docs.daneeskripter.tk) - My Docs
+##### [status.daneeskripter.tk](https://status.daneeskripter.tk) - Status of my websites
+##### [fun.daneeskripter.tk](https://fun.daneeskripter.tk) - Some websites that I created when I was bored
+##### [api.daneeskripter.tk](https://api.daneeskripter.tk) - Just test API
 ##### [panel.dishost.xyz](https://panel.dishost.xyz) - DisHost Panel
 ##### [client.dishost.xyz](https://client.dishost.xyz) - DisHost Dashboard
 ##### [de1.dishost.xyz](https://de1.dishost.xyz) - De1 Node
-##### [fr1.dishost.xyz](https://fr1.dishost.xyz) - Fr1 Node
+##### [de2.dishost.xyz](https://fr1.dishost.xyz) - De2 Node
